@@ -21,7 +21,7 @@ I've modified the container to include `iputils-ping` in order to use the linux 
 
 ## Setup
 
-Open a new terminal and execute the following. The `%cd%` or `$PWD` can be changed to a local directory of your choosing.
+Open a new terminal and execute the following. The `%cd%` or `$PWD` should match wherever you cloned this repo.
 
 Windows:
 ```
