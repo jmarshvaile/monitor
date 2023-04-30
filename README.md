@@ -48,7 +48,7 @@ You will need to manually run each cell, allowing the plot to fully appear befor
 
 ## Shutting Down
 
-The `while` loop is infinite. You must interrupt the kernal to stop it.
+The `while` loop will run for a very long time. You will likely want to interrupt the kernal yourself when you are done checking your network performance.
 
 After exiting the container, Windows users will need to free up the memory allocated to virtual environments. You can do this in a new terminal with the following command.
 ```
